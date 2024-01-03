@@ -6,10 +6,15 @@ Developed a robust DevOps project using GitHub, Ansible, and Jenkins to automate
 
 Technologies Used:
 Version Control: GitHub
+
 Automation Tool: Ansible
+
 Continuous Integration/Continuous Deployment (CI/CD): Jenkins
+
 Cloud Platform: Amazon Web Services (AWS)
+
 Infrastructure: Managed 4 EC2 instances for hosting the web server
+
 Responsibilities and Achievements:
 Implemented a seamless automation process that reduces deployment time and enhances overall efficiency.
 Configured Ansible playbooks for provisioning and configuring EC2 instances with necessary packages and dependencies.
