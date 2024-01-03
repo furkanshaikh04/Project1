@@ -43,7 +43,7 @@ Ansible Installed:
 Install Ansible on your local machine. You can follow the official documentation for installation steps based on your operating system.
 
 Jenkins Installed:
-Install Jenkins on a server or locally, depending on your setup requirements. Follow the official Jenkins installation guide for your platform.
+Install Jenkins on a server or locally, depending on your setup requirements. Follow the official Jenkins installation guide for your platform.]
 
 Steps:
 1. GitHub Repository Setup:
