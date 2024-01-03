@@ -17,15 +17,25 @@ Infrastructure: Managed 4 EC2 instances for hosting the web server
 
 Responsibilities and Achievements:
 Implemented a seamless automation process that reduces deployment time and enhances overall efficiency.
+
 Configured Ansible playbooks for provisioning and configuring EC2 instances with necessary packages and dependencies.
+
 Integrated Jenkins pipeline to trigger builds upon code commits, running tests and deploying the HTML content to the web server.
+
 Skills Demonstrated:
+
 DevOps Practices
+
 Infrastructure as Code (IaC) with Ansible
+
 Continuous Integration/Continuous Deployment (CI/CD)
+
 AWS EC2 Instance Management
+
 Version Control with Git and GitHub
+
 Team Collaboration and Communication
+
 Impact:
 Streamlined the deployment process, resulting in faster time-to-market for new features and updates.
 Enhanced team productivity by automating repetitive tasks, allowing developers to focus more on coding and less on deployment concerns..
