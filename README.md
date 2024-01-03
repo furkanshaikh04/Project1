@@ -11,10 +11,9 @@ Continuous Integration/Continuous Deployment (CI/CD): Jenkins
 Cloud Platform: Amazon Web Services (AWS)
 Infrastructure: Managed 4 EC2 instances for hosting the web server
 Responsibilities and Achievements:
-Implemented a seamless automation process that reduces deployment time by X% and enhances overall efficiency.
+Implemented a seamless automation process that reduces deployment time and enhances overall efficiency.
 Configured Ansible playbooks for provisioning and configuring EC2 instances with necessary packages and dependencies.
 Integrated Jenkins pipeline to trigger builds upon code commits, running tests and deploying the HTML content to the web server.
-Collaborated with a team of developers to ensure smooth integration of code changes and maintained version control using Git workflows.
 Skills Demonstrated:
 DevOps Practices
 Infrastructure as Code (IaC) with Ansible
@@ -58,7 +57,7 @@ Inside the repository, create a directory for Ansible playbooks and related file
 Write Ansible playbooks to provision and configure the AWS EC2 instances. These playbooks should include tasks for setting up necessary packages, dependencies, and configurations on the EC2 instances.
 
 3. Jenkins Integration:
-Set up a Jenkins pipeline for your project.
+Set up a Jenkins pipeline/freestyle for your project.
 
 Configure the Jenkins job to monitor the GitHub repository for changes. Use a webhook or Jenkins plugin to trigger builds on code commits.
 
@@ -80,6 +79,6 @@ First one is of webserver and
 And the second is of command prompt of developer's machine in which he/she has written his/her HTML file.![Screenshot 2024-01-03 131910](https://github.com/furkanshaikh04/Project1/assets/140544257/93dd6771-3e40-4bd6-8edb-21d592d77713)
 This is the image of the console output we get once our job gets build in jenkins ![Screenshot 2024-01-03 132342](https://github.com/furkanshaikh04/Project1/assets/140544257/437d8544-58ce-488d-b3ae-93ae89c79529)
 
-And in the below link you can see how the final output looks like:
-https://drive.google.com/file/d/19y16Xr-fviXzwIIm74ol_5iqp0BDg8Iz/view?usp=sharing
+In below link you can see how the final output looks like:
+https://drive.google.com/file/d/19y16Xr-fviXzwIIm74ol_5iqp0BDg8Iz/view?usp=drive_link
 
