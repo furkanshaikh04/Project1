@@ -75,8 +75,8 @@ Write scripts or configuration files to handle the deployment of HTML content to
 Ensure the web server configuration is part of your Ansible playbooks to automatically display the updated content.
 ## Usage
 
-[![Screenshot 2024-01-03 131910](https://github.com/furkanshaikh04/Project1/assets/140544257/93dd6771-3e40-4bd6-8edb-21d592d77713)
-![Screenshot 2024-01-03 132342](https://github.com/furkanshaikh04/Project1/assets/140544257/437d8544-58ce-488d-b3ae-93ae89c79529)
+Here I have attached both imagaes one is of webserver and the the command prompt of image is developer's machine in which he/she has written his/her HTML file.[Screenshot 2024-01-03 131910](https://github.com/furkanshaikh04/Project1/assets/140544257/93dd6771-3e40-4bd6-8edb-21d592d77713)
+This is the image of the console output we get once our job gets build in jenkins [Screenshot 2024-01-03 132342](https://github.com/furkanshaikh04/Project1/assets/140544257/437d8544-58ce-488d-b3ae-93ae89c79529)
 
 https://drive.google.com/file/d/19y16Xr-fviXzwIIm74ol_5iqp0BDg8Iz/view?usp=sharing
 
