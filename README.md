@@ -30,8 +30,6 @@ Enhanced team productivity by automating repetitive tasks, allowing developers t
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
