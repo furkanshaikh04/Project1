@@ -43,7 +43,7 @@ Enhanced team productivity by automating repetitive tasks, allowing developers t
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
+- [Screenshots](#screenshot)
 
 ## Installation
 
