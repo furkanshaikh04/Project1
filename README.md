@@ -87,7 +87,7 @@ Use Ansible to execute the playbooks, provisioning and configuring the EC2 insta
 Write scripts or configuration files to handle the deployment of HTML content to the web server.
 
 Ensure the web server configuration is part of your Ansible playbooks to automatically display the updated content.
-## Usage
+## Screenshots
 
 Here I have attached both images:
 First one is of webserver and 
